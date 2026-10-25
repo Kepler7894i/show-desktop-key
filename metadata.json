@@ -1,0 +1,8 @@
+{
+  "name": "Show Desktop Key",
+  "description": "Top bar button that shows the desktop and restores your windows, like pressing Super+D. Applications can be excluded in settings.",
+  "uuid": "show-desktop-key@local",
+  "settings-schema": "org.gnome.shell.extensions.show-desktop-key",
+  "shell-version": ["50"],
+  "version": 1
+}

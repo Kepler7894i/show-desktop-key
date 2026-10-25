@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="show-desktop-key">
+  <schema id="org.gnome.shell.extensions.show-desktop-key" path="/org/gnome/shell/extensions/show-desktop-key/">
+    <key name="ignored-apps" type="as">
+      <default>[]</default>
+      <summary>Ignored applications</summary>
+      <description>WM_CLASS names of applications whose windows the button never minimises or restores.</description>
+    </key>
+  </schema>
+</schemalist>
